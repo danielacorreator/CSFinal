@@ -1,0 +1,222 @@
+[
+    {
+        "muscle_group": "legs",
+        "workouts": [
+            {
+                "exercise": "Back Squat",
+                "sets": 4,
+                "reps": "8-12",
+                "weight": "Barbell",
+                "rest": "90 sec",
+                "intensity": "High",
+                "short_video": "https://www.youtube.com/embed/-bJIpOq-LWk"
+            },
+            {
+                "exercise": "Romanian Deadlifts",
+                "sets": 4,
+                "reps": "10-12",
+                "weight": "Barbell",
+                "rest": "75 sec",
+                "intensity": "Medium",
+                "short_video": "https://www.youtube.com/embed/WIcpu2UkJoY"
+            },
+            {
+                "exercise": "Lunges",
+                "sets": 3,
+                "reps": "10-15",
+                "weight": "Bodyweight",
+                "rest": "60 sec",
+                "intensity": "Medium",
+                "short_video": "https://www.youtube.com/embed/9gglI77Kzq8"
+            },
+            {
+                "exercise": "Leg Press",
+                "sets": 4,
+                "reps": "10-12",
+                "weight": "Machine",
+                "rest": "90 sec",
+                "intensity": "High",
+                "short_video": "https://www.youtube.com/embed/yZmx_Ac3880"
+            }
+        ]
+    },
+    {
+        "muscle_group": "chest",
+        "workouts": [
+            {
+                "exercise": "Barbell Bench Press",
+                "sets": 4,
+                "reps": "8-10",
+                "weight": "Barbell",
+                "rest": "90 sec",
+                "intensity": "High",
+                "short_video": "https://www.youtube.com/embed/SCVCLChPQFY"
+            },
+            {
+                "exercise": "Push-Ups",
+                "sets": 3,
+                "reps": "15-20",
+                "weight": "Bodyweight",
+                "rest": "60 sec",
+                "intensity": "Medium",
+                "short_video": "https://www.youtube.com/embed/_l3ySVKYVJ8"
+            },
+            {
+                "exercise": "Incline Dumbbell Press",
+                "sets": 4,
+                "reps": "10-12",
+                "weight": "Dumbbells",
+                "rest": "75 sec",
+                "intensity": "High",
+                "short_video": "https://www.youtube.com/embed/oZVCBM9f8Eo"
+            }
+        ]
+    },
+    {
+        "muscle_group": "back",
+        "workouts": [
+            {
+                "exercise": "Pull-Ups",
+                "sets": 4,
+                "reps": "8-12",
+                "weight": "Bodyweight",
+                "rest": "90 sec",
+                "intensity": "High",
+                "short_video": "https://www.youtube.com/embed/_l3ySVKYVJ8"
+            },
+            {
+                "exercise": "Bent-Over Rows",
+                "sets": 4,
+                "reps": "10-12",
+                "weight": "Barbell",
+                "rest": "75 sec",
+                "intensity": "High",
+                "short_video": "https://www.youtube.com/embed/bm0_q9bR_HA"
+            },
+            {
+                "exercise": "Lat Pulldowns",
+                "sets": 4,
+                "reps": "10-15",
+                "weight": "Machine",
+                "rest": "60 sec",
+                "intensity": "Medium",
+                "short_video": "https://www.youtube.com/embed/JGeRYIZdojU"
+            }
+        ]
+    },
+    {
+        "muscle_group": "shoulders",
+        "workouts": [
+            {
+                "exercise": "Overhead Press",
+                "sets": 4,
+                "reps": "8-10",
+                "weight": "Barbell",
+                "rest": "90 sec",
+                "intensity": "High",
+                "short_video": "https://www.youtube.com/embed/SCVCLChPQFY"
+            },
+            {
+                "exercise": "Lateral Raises",
+                "sets": 4,
+                "reps": "12-15",
+                "weight": "Dumbbells",
+                "rest": "60 sec",
+                "intensity": "Medium",
+                "short_video": "https://www.youtube.com/embed/XPPfnSEATJA"
+            },
+            {
+                "exercise": "Face Pulls",
+                "sets": 4,
+                "reps": "15-20",
+                "weight": "Cable Machine",
+                "rest": "60 sec",
+                "intensity": "Medium",
+                "short_video": "https://www.youtube.com/embed/0Po47vvj9g4"
+            }
+        ]
+    },
+    {
+        "muscle_group": "arms",
+        "workouts": [
+            {
+                "exercise": "Bicep Curls",
+                "sets": 4,
+                "reps": "10-12",
+                "weight": "Dumbbells",
+                "rest": "60 sec",
+                "intensity": "Medium",
+                "short_video": "https://www.youtube.com/embed/MKWBV29S6c0"
+            },
+            {
+                "exercise": "Tricep Dips",
+                "sets": 3,
+                "reps": "10-15",
+                "weight": "Bodyweight",
+                "rest": "75 sec",
+                "intensity": "Medium",
+                "short_video": "https://www.youtube.com/embed/0326dy_-CzM"
+            },
+            {
+                "exercise": "Hammer Curls",
+                "sets": 4,
+                "reps": "10-12",
+                "weight": "Dumbbells",
+                "rest": "60 sec",
+                "intensity": "Medium",
+                "short_video": "https://www.youtube.com/embed/OPqe0kCxmR8"
+            },
+            {
+                "exercise": "Skull Crushers",
+                "sets": 4,
+                "reps": "10-12",
+                "weight": "Barbell",
+                "rest": "75 sec",
+                "intensity": "High",
+                "short_video": "https://www.youtube.com/embed/YUhzqUVB24I"
+            }
+        ]
+    },
+    {
+        "muscle_group": "core",
+        "workouts": [
+            {
+                "exercise": "Plank",
+                "sets": 3,
+                "reps": "30-60 sec",
+                "weight": "Bodyweight",
+                "rest": "60 sec",
+                "intensity": "Medium",
+                "short_video": "https://www.youtube.com/embed/pvIjsG5Svck"
+            },
+            {
+                "exercise": "Hanging Leg Raises",
+                "sets": 4,
+                "reps": "12-15",
+                "weight": "Bodyweight",
+                "rest": "60 sec",
+                "intensity": "High",
+                "short_video": "https://www.youtube.com/embed/RuIdJSVTKO4"
+            },
+            {
+                "exercise": "Russian Twists",
+                "sets": 4,
+                "reps": "20 reps",
+                "weight": "Bodyweight",
+                "rest": "60 sec",
+                "intensity": "Medium",
+                "short_video": "https://www.youtube.com/embed/Tau0hsW8iR0"
+            },
+            {
+                "exercise": "Ab Rollouts",
+                "sets": 4,
+                "reps": "10-12",
+                "weight": "Ab Wheel",
+                "rest": "60 sec",
+                "intensity": "High",
+                "short_video": "https://www.youtube.com/embed/DA2QGI0NPWU"
+            }
+        ]
+    }
+]
+
