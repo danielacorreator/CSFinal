@@ -1,5 +1,6 @@
 # **💪 Digital Personal Trainer**
-#### Video Demo: [Insert URL Here]
+#### Video Demo: [(https://youtu.be/qRtMkBXnvvk)]
+
 #### Description:
 The **Digital Personal Trainer** is an interactive web application designed to provide users with a personalized workout experience. This project leverages **Streamlit**, a powerful Python framework, to create a user-friendly interface where fitness enthusiasts can choose their target muscle group and receive a curated list of exercises to follow. Each exercise is accompanied by detailed information including sets, reps, rest times, intensity levels, and video tutorials to ensure users perform each exercise with proper form.
 
